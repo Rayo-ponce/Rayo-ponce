@@ -1,4 +1,4 @@
-![María del Rayo Ponce Vargas - Ingeniera Biomédica 🎓.](assets/carrera.jpg)
+![María del Rayo Ponce Vargas - Ingeniera Biomédica 🎓.](assets/portada.jpg)
 
 <li><b>👤 Name:  </b> María del Rayo Ponce Vargas </li>
 <li><b>😄 Pronouns: </b>  She/Her </li>
